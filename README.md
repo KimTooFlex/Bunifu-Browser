@@ -2,7 +2,7 @@
 
 # Bunifu Browser
 
-This is a simple modern browser written on c# on top of Bunifu Framework
+This is a simple modern browser written in c# on top of Bunifu Framework
 
 # Screenshot
 
